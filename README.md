@@ -27,7 +27,7 @@
 
 <br>
 
-## 💪 Activites
+## 💻 Activites & Awards
 - **키즈링크**
   
   교권 보호와 업무자동화를 위한 플랫폼
