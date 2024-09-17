@@ -13,7 +13,7 @@
 🎓전남대학교 컴퓨터정보통신공학 졸업 <br>
 🔎삼성 청년 SW 아카데미 (SSAFY) 11기
 
-<br>
+<br><br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
 
