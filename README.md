@@ -16,26 +16,22 @@
  
 <br>
 
+### 🔨 Tech Stack
 
-## 💪 Experience 💪
+<br>
+
+### 💪 Activites
 - **SSAFY 11기** _(2024.01~)_
-
-
-
-<br>
-
-## 💻 Project 💻
-
+- IBK기업은행 우수인턴 _(2023.01~2023.02)_
 
 
 <br>
 
-## 🏆 Award 🏆
+
+### 🏆 Awards 
 
 <br>
  
 
     
-## 🔨  Skills 🔨
 
-<br>
