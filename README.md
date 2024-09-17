@@ -32,14 +32,14 @@
   
   🏆 SSAFY 공통프로젝트 우수상 (1등)
     
-  🔗[참고](https://github.com/wonxxikim/KidsLink)
+  🔗[키즈링크 GitHub](https://github.com/wonxxikim/KidsLink)
   <br><br>
   
 - **ExcuseMe**
   
   공공데이터를 활용한 여행 통합 플랫폼
   
-  🔗[참고](https://github.com/wonxxikim/ExcuseMe)
+  🔗[ExcuseMe GitHub](https://github.com/wonxxikim/ExcuseMe)
   <br><br>
   
 - **IBK BOX-POS 고도화**
@@ -55,7 +55,7 @@
   
   🏆 한국통신학회 학부우수논문상
     
-  🔗
+  🔗[논문]
   <br><br>
   
 - **See Through with QR**
