@@ -4,11 +4,11 @@
  
  ---
 
-
 <div align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonxxikim%2Fhit-counter&count_bg=%23FF9DDE&title_bg=%23636363&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
- <br>
+ 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonxxikim%2Fhit-counter&count_bg=%23FF9DDE&title_bg=%23636363&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
+ 
+<br>
 🎓전남대학교 컴퓨터정보통신공학 졸업 <br>
 🔎삼성 청년 SW 아카데미 (SSAFY) 11기
 
