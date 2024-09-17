@@ -27,17 +27,12 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           </div>
     </div>
-    <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-
+   
     
 ### 🌱 Personal Experience
 |Date|Details|Organization|
 |----|--------|------|
 |24.01 ~ |삼성 청년 SW 아카데미|삼성전자|
-|23.01 ~ 23.02|IBK 기업은행 우수인턴|IBK기업은행|
+
 
     
