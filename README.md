@@ -32,7 +32,9 @@
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    ### 🌱 Personal Experience
+
+    
+### 🌱 Personal Experience
 |Date|Details|Organization|
 |----|--------|------|
 |24.01 ~ |삼성 청년 SW 아카데미|삼성전자|
