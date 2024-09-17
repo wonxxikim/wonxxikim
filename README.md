@@ -35,21 +35,21 @@
   🔗[참고](https://github.com/wonxxikim/KidsLink)
   <br><br>
   
-- ExcuseMe
+- **ExcuseMe**
   
   공공데이터를 활용한 여행 통합 플랫폼
   
   🔗[참고](https://github.com/wonxxikim/ExcuseMe)
   <br><br>
   
-- IBK BOX-POS 고도화
+- **IBK BOX-POS 고도화**
   
   소상공인을 위한 애플리케이션 고도화 프로젝트
   
   🏆IBK기업은행 우수인턴 선발
   <br><br>
   
-- 딥러닝 기반 채널 추정에서 파일럿과 채널 수에 따른 정확도 분석
+- **딥러닝 기반 채널 추정에서 파일럿과 채널 수에 따른 정확도 분석**
   
   AI+5G, 무선 채널의 예측 어려움을 딥러닝으로 해결하는 기법에 대한 연구
   
@@ -58,7 +58,7 @@
   🔗
   <br><br>
   
-- See Through with QR
+- **See Through with QR**
   
   시각장애인을 위한 쇼핑도우미 애플리케이션
   
