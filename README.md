@@ -15,8 +15,9 @@
 
 <br><br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonxxikim&theme=buefy&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
+
 
 <div align="left">
  
