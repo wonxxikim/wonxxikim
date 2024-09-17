@@ -14,7 +14,7 @@
 
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
+
  
 <br>
 
@@ -34,6 +34,6 @@
 
 <br>
  
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokim0928)](https://solved.ac/gokim0928)
     
 
