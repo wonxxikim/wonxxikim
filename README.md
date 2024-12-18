@@ -67,7 +67,7 @@
 
   사장님과 아르바이트생을 위한 뱅킹 서비스
   
- 🔗[Arbaguette GitHub](https://github.com/Arbaguette/arbaguette)
+  🔗[Arbaguette GitHub](https://github.com/Arbaguette/arbaguette)
  <br><br>
   
 - **ExcuseMe**
